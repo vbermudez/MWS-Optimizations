@@ -20,9 +20,9 @@ h1, h2, h3, h4, h5 {
 }
 
 /* not necessary */
-header, nav, footer, section, article, div {
+/* header, nav, footer, section, article, div {
   box-sizing: border-box;
-}
+}*/
 
 ul {
   list-style: none;
